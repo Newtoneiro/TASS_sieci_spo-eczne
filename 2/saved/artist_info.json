@@ -1,0 +1,84 @@
+{
+    "artist_id": "381086ea-f511-4aba-bdf9-71c753dc5077",
+    "artist_name": "Kendrick Lamar",
+    "origin_country": "United States",
+    "life_span": {
+        "begin": "1987-06-17",
+        "ended": "false"
+    },
+    "disambiguation": "US rapper",
+    "tags": [
+        {
+            "count": "3",
+            "name": "pop"
+        },
+        {
+            "count": "3",
+            "name": "rap"
+        },
+        {
+            "count": "13",
+            "name": "hip hop"
+        },
+        {
+            "count": "0",
+            "name": "funk"
+        },
+        {
+            "count": "0",
+            "name": "gangsta rap"
+        },
+        {
+            "count": "2",
+            "name": "pop rap"
+        },
+        {
+            "count": "0",
+            "name": "neo soul"
+        },
+        {
+            "count": "1",
+            "name": "alternative hip hop"
+        },
+        {
+            "count": "0",
+            "name": "experimental hip hop"
+        },
+        {
+            "count": "6",
+            "name": "west coast hip hop"
+        },
+        {
+            "count": "0",
+            "name": "boom bap"
+        },
+        {
+            "count": "0",
+            "name": "r&b"
+        },
+        {
+            "count": "7",
+            "name": "jazz rap"
+        },
+        {
+            "count": "8",
+            "name": "conscious hip hop"
+        },
+        {
+            "count": "0",
+            "name": "political hip hop"
+        },
+        {
+            "count": "4",
+            "name": "hardcore hip hop"
+        },
+        {
+            "count": "1",
+            "name": "trap"
+        },
+        {
+            "count": "0",
+            "name": "relic inn"
+        }
+    ]
+}
