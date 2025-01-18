@@ -5,10 +5,10 @@ The **Artist Collaboration Explorer** is a Streamlit-based web application desig
 <p style="display: flex; justify-content: center; align-items: center">
   <div style="display: flex; justify-content: center;">
     <div style="margin-right: 20px;">
-      <img src="assets/screenshot1.png" alt="Collaboration Graph 1" width="400">
+      <img src="assets/screenshot1.png" alt="Collaboration Graph 1" width="500">
     </div>
     <div>
-      <img src="assets/screenshot2.png" alt="Collaboration Graph 2" width="400">
+      <img src="assets/screenshot2.png" alt="Collaboration Graph 2" width="500">
     </div>
   </div>
   <img src="assets/big_graph.png" alt="Collaboration Graph" width="400">
