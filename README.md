@@ -2,16 +2,15 @@
 
 The **Artist Collaboration Explorer** is a Streamlit-based web application designed to visualize the collaboration network of musical artists. Through an interactive graph, users can explore connections between artists, discover top coauthors, and analyze relationships across genres, countries, and time periods.
 
-<div style="display: flex; justify-content: center;">
-  <div style="margin-right: 20px;">
-    <img src="assets/screenshot1.png" alt="Collaboration Graph 1" width="400">
+<p style="display: flex; justify-content: center; align-items: center">
+  <div style="display: flex; justify-content: center;">
+    <div style="margin-right: 20px;">
+      <img src="assets/screenshot1.png" alt="Collaboration Graph 1" width="400">
+    </div>
+    <div>
+      <img src="assets/screenshot2.png" alt="Collaboration Graph 2" width="400">
+    </div>
   </div>
-  <div>
-    <img src="assets/screenshot2.png" alt="Collaboration Graph 2" width="400">
-  </div>
-</div>
-
-<p align="center">
   <img src="assets/big_graph.png" alt="Collaboration Graph" width="400">
 </p>  
 
